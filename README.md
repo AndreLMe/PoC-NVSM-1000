@@ -1,7 +1,7 @@
 <h1 align="center"> PoC-NVSM-1000 </h1>
 
 ## Just a PoC for NVSM 1000 Directory Transversal exploit.
-### Had some issues with the public exploit present on exploitDB.
+### Had some issues with the public exploit present in exploitDB.
 ### Feel free to improve by yourself ヽ(•‿•)ノ
 ### This exploit was made for educational purposes only. Exempt myself from any malicious act that may occur, in case this exploit is used for any malicious proposes.
 <br>
